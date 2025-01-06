@@ -3,4 +3,4 @@ This repository is **strictly for educational purposes and serves as a backup** 
 
 Folder **VCF** contains R script for analyzing **Variant Call Format (VCF)** files essential for **Genome-Wide Association Studies (GWAS)**, focusing on genotype ploidy, allele phasing, and variant classification, including SNPs, indels, structural variations, and alternative alleles.
 
-Folder **** contains the R script for the analysis of gene expression between two phenotypes—responders and non-responders to Letrozole drug treatment in the context of breast cancer tumors. The study leverages publicly available data from NCBI GEO  to identify differentially expressed genes (DEGs).
+Folder **Differential_Expression_Letrozole_Responders_vs_Nonresponders** contains the R script for the analysis of gene expression between two phenotypes—responders and non-responders to Letrozole drug treatment in the context of breast cancer tumors. The study leverages publicly available data from NCBI GEO  to identify differentially expressed genes (DEGs).
