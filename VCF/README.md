@@ -1,1 +1,1 @@
-# This folder VCF contains R script for analyzing Variant Call Format (VCF) files essential for Genome-Wide Association Studies (GWAS), focusing on genotype ploidy, allele phasing, and variant classification, including SNPs, indels, structural variations, and alternative alleles.
+# This folder contains R script for analyzing Variant Call Format (VCF) files essential for Genome-Wide Association Studies (GWAS), focusing on genotype ploidy, allele phasing, and variant classification, including SNPs, indels, structural variations, and alternative alleles.
