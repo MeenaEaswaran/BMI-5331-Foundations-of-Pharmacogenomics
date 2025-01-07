@@ -1,6 +1,6 @@
 # Differential Expression Analysis: Responders vs. Non-Responders to Letrozole Treatment 
-This folder contains R script for the analysis of gene expression between two phenotypes—responders and non-responders to Letrozole drug treatment in the context of breast cancer tumors. 
-The study leverages publicly available data to identify **differentially expressed genes (DEGs)**.
+This folder contains a R script for the analysis of gene expression between two phenotypes—responders and non-responders to Letrozole drug treatment in the context of breast cancer tumors. 
+The study leveraged publicly available data to identify **differentially expressed genes (DEGs)** between responders and non-responders.
 
 ## Methods and Tools
 ### Data Retrieval
