@@ -2,6 +2,8 @@
 This folder contains a R script for the analysis of gene expression between two phenotypes—responders and non-responders to Letrozole drug treatment in the context of breast cancer tumors. 
 The study leveraged publicly available microarray dataset to identify **differentially expressed genes (DEGs)** between responders and non-responders.
 
+---
+
 ## Methods and Tools
 ### Data Retrieval
 - Source: NCBI GEO
@@ -18,6 +20,8 @@ The study leveraged publicly available microarray dataset to identify **differen
 - Tool Used: **[DAVID](https://david.ncifcrf.gov/conversion.jsp)** Gene ID Conversion Tool 
 - Identifier: AFFEMETRIX_3PRIME_IVT_ID
 - Species: Homo sapiens
+
+---
 
 ## Citation
 If you use the tools or dataset mentioned in this repository in your research, please cite the following references:
